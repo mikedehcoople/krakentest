@@ -1,0 +1,65 @@
+desc	Date	Location	home_team	away_team
+Russia vs Saudi Arabia	14/06/2018 17:00	Luzhniki Stadium, Moscow	23	24
+Egypt vs Uruguay	15/06/2018 14:00	Ekaterinburg Stadium	9	32
+Morocco vs Iran	15/06/2018 17:00	Saint Petersburg Stadium	17	14
+Portugal vs Spain	15/06/2018 20:00	Fisht Stadium, Sochi	22	28
+France vs Australia	16/06/2018 12:00	Kazan Arena	11	2
+Argentina vs Iceland	16/06/2018 15:00	Otkrytiye Arena, Moscow	1	13
+Peru vs Denmark	16/06/2018 18:00	Saransk Stadium	20	8
+Croatia vs Nigeria	16/06/2018 21:00	Kaliningrad Stadium	7	18
+Costa Rica vs Serbia	17/06/2018 14:00	Samara Stadium	6	26
+Germany vs Mexico	17/06/2018 17:00	Luzhniki Stadium, Moscow	12	16
+Brazil vs Switzerland	17/06/2018 20:00	Rostov-on-Don Stadium	4	30
+Sweden vs South Korea	18/06/2018 14:00	Nizhny Novgorod Stadium	29	27
+Belgium vs Panama	18/06/2018 17:00	Fisht Stadium, Sochi	3	19
+Tunisia vs England	18/06/2018 20:00	Volgograd Stadium	31	10
+Colombia vs Japan	19/06/2018 14:00	Saransk Stadium	5	15
+Poland vs Senegal	19/06/2018 17:00	Otkrytiye Arena, Moscow	21	25
+Russia vs Egypt	19/06/2018 20:00	Saint Petersburg Stadium	23	9
+Portugal vs Morocco	20/06/2018 14:00	Luzhniki Stadium, Moscow	22	17
+Uruguay vs Saudi Arabia	20/06/2018 17:00	Rostov-on-Don Stadium	32	24
+Iran vs Spain	20/06/2018 20:00	Kazan Arena	14	28
+Denmark vs Australia	21/06/2018 14:00	Samara Stadium	8	2
+France vs Peru	21/06/2018 17:00	Ekaterinburg Stadium	11	20
+Argentina vs Croatia	21/06/2018 20:00	Nizhny Novgorod Stadium	1	7
+Brazil vs Costa Rica	22/06/2018 14:00	Saint Petersburg Stadium	4	6
+Nigeria vs Iceland	22/06/2018 17:00	Volgograd Stadium	18	13
+Serbia vs Switzerland	22/06/2018 20:00	Kaliningrad Stadium	26	30
+Belgium vs Tunisia	23/06/2018 14:00	Otkrytiye Arena, Moscow	3	31
+South Korea vs Mexico	23/06/2018 17:00	Rostov-on-Don Stadium	27	16
+Germany vs Sweden	23/06/2018 20:00	Fisht Stadium, Sochi	12	29
+England vs Panama	24/06/2018 14:00	Nizhny Novgorod Stadium	10	19
+Japan vs Senegal	24/06/2018 17:00	Ekaterinburg Stadium	15	25
+Poland vs Colombia	24/06/2018 20:00	Kazan Arena	21	5
+Uruguay vs Russia	25/06/2018 16:00	Samara Stadium	32	23
+Saudi Arabia vs Egypt	25/06/2018 16:00	Volgograd Stadium	24	9
+Iran vs Portugal	25/06/2018 20:00	Saransk Stadium	14	22
+Spain vs Morocco	25/06/2018 20:00	Kaliningrad Stadium	28	17
+Denmark vs France	26/06/2018 16:00	Luzhniki Stadium, Moscow	8	11
+Australia vs Peru	26/06/2018 16:00	Fisht Stadium, Sochi	2	20
+Nigeria vs Argentina	26/06/2018 20:00	Saint Petersburg Stadium	18	1
+Iceland vs Croatia	26/06/2018 20:00	Rostov-on-Don Stadium	13	7
+Mexico vs Sweden	27/06/2018 16:00	Ekaterinburg Stadium	16	29
+South Korea vs Germany	27/06/2018 16:00	Kazan Arena	27	12
+Serbia vs Brazil	27/06/2018 20:00	Otkrytiye Arena, Moscow	26	4
+Switzerland vs Costa Rica	27/06/2018 20:00	Nizhny Novgorod Stadium	30	6
+Japan vs Poland	28/06/2018 16:00	Volgograd Stadium	15	21
+Senegal vs Colombia	28/06/2018 16:00	Samara Stadium	25	5
+Panama vs Tunisia	28/06/2018 20:00	Saransk Stadium	19	31
+England vs Belgium	28/06/2018 20:00	Kaliningrad Stadium	10	3
+Winner Group C vs Runner-up Group D	30/06/2018 16:00	Kazan Arena		
+"Winner Group A vs Runner-up Group B	"	30/06/2018 20:00	Fisht Stadium, Sochi		
+"Winner Group B vs Runner-up Group A	"	01/07/2018 16:00	Luzhniki Stadium, Moscow		
+Winner Group D vs Runner-up Group C	01/07/2018 20:00	Nizhny Novgorod Stadium		
+Winner Group E vs Runner-up Group F	02/07/2018 16:00	Samara Stadium		
+Winner Group G vs Runner-up Group H	02/07/2018 20:00	Rostov-on-Don Stadium		
+Winner Group F vs Runner-up Group E	03/07/2018 16:00	Saint Petersburg Stadium		
+Winner Group H vs Runner-up Group G	03/07/2018 20:00	Otkrytiye Arena, Moscow		
+To be announced vs To be announced	06/07/2018 16:00	Nizhny Novgorod Stadium		
+To be announced vs To be announced	06/07/2018 20:00	Kazan Arena		
+To be announced vs To be announced	07/07/2018 16:00	Samara Stadium		
+To be announced vs To be announced	07/07/2018 20:00	Fisht Stadium, Sochi		
+To be announced vs To be announced	10/07/2018 20:00	Saint Petersburg Stadium		
+To be announced vs To be announced	11/07/2018 20:00	Luzhniki Stadium, Moscow		
+To be announced vs To be announced	14/07/2018 16:00	Saint Petersburg Stadium		
+To be announced vs To be announced	15/07/2018 17:00	Luzhniki Stadium, Moscow		
